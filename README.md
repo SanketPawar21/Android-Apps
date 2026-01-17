@@ -41,7 +41,7 @@ Feel free to reach out to me. I’ll be happy to help 😊
 
 🔗 LinkedIn: https://www.linkedin.com/in/sanket-data21
 
-📸 Instagram: sanketpawar_21
+📸 Instagram: @sanketpawar_21
 
 📧 Email:sanketpawar1979@gmail.com
 
