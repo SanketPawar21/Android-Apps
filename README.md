@@ -1,7 +1,7 @@
 📦 Project Repository – Source Code & Resources
 
 Welcome to this repository!
-This repo contains all the main source code files related to the project.
+This repo contains all the main source code files related to the practicals.
 Some additional large files/resources could not be uploaded directly to GitHub due to size limits, so they are shared via Google Drive.
 
 📁 Repository Contents
@@ -23,7 +23,7 @@ Some required files are stored on Google Drive.
 
 Please download all 4 files from the Drive link
 
-These files are necessary for proper execution/use of the project
+These files are Imp Practical Files 
 
 ⚠️ Facing Any Issues?
 
